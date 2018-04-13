@@ -7,4 +7,5 @@ Les deux joueur connectés, le jeux démarre.
 Le but étant d'arriver le permier à 5 pour gagner.
 
 Le joueur de gauche aura comme commande de control : Z et S
+
 Le joueur de droite aura comme commande de control : haut et bas
